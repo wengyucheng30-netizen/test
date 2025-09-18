@@ -1,0 +1,43 @@
+
+
+.logo {
+    padding-left: 10px;
+    font-size: 25px;
+}
+
+header ul {
+    display: flex;
+    padding: 15px 0;
+    color: white;
+    background-color: black;
+}
+
+header ul li {
+    list-style: none;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.main-container {
+    display: flex;
+    width: 90%;
+    height: 400px;
+    margin: 20px auto;
+}
+
+.left {
+    width: 70%;
+    background-color: skyblue;
+}
+
+.right {
+    width: 30%;
+    background-color: skyblue;
+}
+
+footer {
+    padding: 15px 0;
+    text-align: center;
+    color: white;
+    background-color:black ;
+}
